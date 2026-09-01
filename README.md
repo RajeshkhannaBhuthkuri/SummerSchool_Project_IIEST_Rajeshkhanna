@@ -1,4 +1,4 @@
-# Summer School Project – Adaptive Non-Uniform Cellular Automata for Autonomous Vehicle Traffic
+# Summer School Project – A-NUCA-DREM for Energy-Aware Autonomous EV Platooning under Mixed Traffic Conditions
 
 ## Overview
 
